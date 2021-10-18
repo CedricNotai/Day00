@@ -1,0 +1,222 @@
+commands.txt
+covers
+   98  mkdir Day00
+   99  pwd
+  100  cd Day00
+  101  pwd
+  102  mkdir Ex00
+  103  cd Ex00
+  104  pwd
+  105  mkdir covers
+  106  ls
+  107  cd covers
+  108  pwd
+  109  mkdir Constructeurs
+  110  ls
+  111  cd Constructeurs
+  112  ls
+  113  mkdir Sony
+  114  mkdir Nintendo
+  115  mkdir Microsoft
+  116  mkdir Sega
+  117  ls
+  118  cd Sony
+  119  mkdir Consoles
+  120  ls
+  121  cd Consoled
+  122  cd Consoles
+  123  mkdir PS4
+  124  mkdir PS5
+  125  ls
+  126  cd ..
+  127  pwd
+  128  mkdir Consoles_portables
+  129  ls
+  130  cd ..
+  131  pwd
+  132  mkdir Nintendo
+  133  cd Nintendo
+  134  pwd
+  135  mkdir Consoles
+  136  mkdir Consoles_portables
+  137  ls
+  138  cd Consoles
+  139  mkdir Gamecube
+  140  cd ..
+  141  pwd
+  142  mkdir Consoles_portables
+  143  mkdir Game_Boy
+  144  pwd
+  145  ls
+  146  rm Game_boy
+  147  rmdir Game_Boy
+  148  ls
+  149  cd Consoles_portables
+  150  mkdir Game_Boy
+  151  cd ..
+  152  pwd
+  153  cd ..
+  154  pwd
+  155  ls
+  156  cd Microsoft
+  157  ls
+  158  mkdir Consoles
+  159  cd Consoles
+  160  mkdir Xbox
+  161  mkdir Xbox360
+  162  cd..
+  163  cd .. 
+  164  ls
+  165  cd ..
+  166  pwd
+  167  cd Sega
+  168  pwd
+  169  mkdir Consoles
+  170  cd Consoles
+  171  mkdir Dreamcast
+  172  pwd
+  173  cd ..
+  174  pwd
+  175  cd ..
+  176  pwd
+  177  ls
+  178  cd Sony
+  179  cd Consoles/PS4
+  180  pwd
+  181  cp /Users/admin/Téléchargements/covers/ps4_fifa14.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  182  cd ~
+  183  ls
+  184  cp /Users/admin/Downloads/covers/ps4_fifa14.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  185  cd ~/Day00/Ex00/covers
+  186  pwd
+  187  ls
+  188  cd Constructeurs
+  189  pwd
+  190  cd Sony/Consoles/PS4
+  191  ls
+  192  cp /Users/admin/Downloads/covers/playstation_4.unchartedthelostlegacy.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  193  cp /Users/admin/Downloads/covers/playstation_5.farcry6.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5
+  194  pwd
+  195  cd ..
+  196  pwd
+  197  ls
+  198  cd ..
+  199  pwd
+  200  ls
+  201  rmdir Consoles_portables
+  202  ls
+  203  cd ..
+  204  pwd
+  205  cp /Users/admin/Downloads/covers/gc_supermariosunshine.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles/Gamecube
+  206  cp /Users/admin/Downloads/covers/gb_pokemonblue_eu.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy
+  207  cp /Users/admin/Downloads/covers/gameboy.pokmonred.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy
+  208  cp /Users/admin/Downloads/covers/xbox_deadtorights.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  209  cp /Users/admin/Downloads/covers/xbox_halo_2.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  210  cp /Users/admin/Downloads/covers/x360_callfoduty3.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  211  cp /Users/admin/Downloads/covers/x360_callofduty4.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  212  cp /Users/admin/Downloads/covers/dc_jetsetradio_eu_front.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast
+  213  cp /Users/admin/Downloads/covers/dc_shenmue_eu.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast
+  214  pwd
+  215  cd Sega
+  216  ls
+  217  cd Consoles/Dreamcast
+  218  ls
+  219  ls Consoles/Dreamcast
+  220  pwd
+  221  cd ..
+  222  cd ..
+  223  pwd
+  224  cd ..
+  225  pwd
+  226  ls Sega/Consoles/Dreamcast
+  227  ls Microsoft/Consoles/Xbox
+  228  ls Microsoft/Consoles/Xbox360
+  229  ls Nintendo/Consoles/Gamecube
+  230  ls Nintendo/Consoles_portables/Game_Boy
+  231  ls Sony/Consoles/PS4
+  232  ls Sony/Consoles/PS5
+  233  history
+  234  pwd
+  235  cd ../..
+  236  pwd
+  237  ls
+  238  cd covers
+  239  cd Constructeurs
+  240  ls Sony/Consoles/PS4
+  241  cp /Users/admin/Downloads/covers/playstation_4.assassinscreedodyssey.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  242  ls Sony/Consoles/PS4
+  243  cp /Users/admin/Downloads/covers/playstation_4.watchdogs2.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  244  ls Sony/Consoles/PS4
+  245  pwd
+  246  ls /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5
+  247  mv /Users/admin/Downloads/covers/playstation_5.residentevilvillage_.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5
+  248  mv /Users/admin/Downloads/covers/playstation_5.farcry6.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5
+  249  ls /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5
+  250  mv /Users/admin/Downloads/covers/playstation_5.assassinscreedvalhalla.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS5
+  251  mv /Users/admin/Downloads/covers/playstation_4.unchartedthelostlegacy.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  252  mv /Users/admin/Downloads/covers/playstation_4.assassinscreedodyssey.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  253  mv /Users/admin/Downloads/covers/ps4_fifa14.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  254  mv /Users/admin/Downloads/covers/playstation_4.watchdogs2.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sony/Consoles/PS4
+  255  mv /Users/admin/Downloads/covers/gc_mariokartdoubledash.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles/Gamecube
+  256  mv /Users/admin/Downloads/covers/gc_supermariosunshine.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles/Gamecube
+  257  mv /Users/admin/Downloads/covers/gameboy.pokmonred.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy
+  258  mv /Users/admin/Downloads/covers/gb_pokemonblue_eu.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy
+  259  mv /Users/admin/Downloads/covers/gbc_pokemongold.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy
+  260  mv /Users/admin/Downloads/covers/gb_pokemongreen_3.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy
+  261  mv /Users/admin/Downloads/covers/gb_pokemonyellow_au.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Nintendo/Consoles_portables/Game_Boy
+  262  mv /Users/admin/Downloads/covers/xbox_jetsetradiofuture_2.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  263  mv /Users/admin/Downloads/covers/xbox_deadoralive3.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  264  mv /Users/admin/Downloads/covers/xbox_defjamfightforny.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  265  mv /Users/admin/Downloads/covers/xbox_needforspeedunderground2.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  266  mv /Users/admin/Downloads/covers/xbox_deadtorights.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  267  mv /Users/admin/Downloads/covers/xbox_halo2.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  268  mv /Users/admin/Downloads/covers/xbox_halo_2.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  269  mv /Users/admin/Downloads/covers/xbox_360.fableiii.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  270  mv /Users/admin/Downloads/covers/x360_callofduty4.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  271  mv /Users/admin/Downloads/covers/x360_callfoduty3.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  272  mv /Users/admin/Downloads/covers/x360_callofdutyblackopsii.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  273  mv /Users/admin/Downloads/covers/x360_callofduty2.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  274  mv /Users/admin/Downloads/covers/dc_jetgrindradio_10.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast
+  275  mv /Users/admin/Downloads/covers/dc_jetsetradio_eu_front.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast
+  276  mv /Users/admin/Downloads/covers/dc_shenmueii_5.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast
+  277  mv /Users/admin/Downloads/covers/dc_shenmue_eu.jpg /Users/admin/Day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast
+  278  ls /Users/admin/Day00/Ex00/covers/Constructeurs/Sega/Consoles/Dreamcast
+  279  ls /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox
+  280  /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  281  ls /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  282  ls /Users/admin/Day00/Ex00/covers/Constructeurs/Microsoft/Consoles/Xbox360
+  283  pwd
+  284  cd ../..
+  285  pwd
+  286  ls
+  287  history
+  288  history n 191
+  289  history 191
+  290  history 192 -< ~/Day00/Ex00/commands.txt
+  291  pwd
+  292  cd commands.txt
+  293  ls commands.txt
+  294  ls
+  295  ls ~/Day00/Ex00 > commands.txt
+  296  ls
+  297  history 200
+  298  history 201 -w ~/Day00/Ex00/commands.txt
+  299  history
+  300  history 97 >> ~/Day00/Ex00/commands.txt
+  301  pwd
+  302  ls
+  303  history
+  304  history 206  >> ~/Day00/Ex00/commands.txt
+  305  ls
+  306  rm commands.txt
+  307  las commands.txt
+  308  ls commands.txt
+  309  ls ~/Day00/Ex00/commands.txt
+  310  ls ~/Day00/Ex00 > commands.txt
+  311  history 206 >> ~/Day00/Ex00/commands.txt
+  312  history
+  313  rm commands.txt
+  314  ls ~/Day00/Ex00 > commands.txt
+  315  history
+  316  history 219 >> ~/Day00/Ex00.commands.txt
+  317  history 220 >> ~/Day00/Ex00/commands.txt
