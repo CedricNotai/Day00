@@ -1,2 +1,2 @@
 sed '$d' deposition_Joe_Rugiani.txt | sed '$d' > temp01.txt
-cat temp01.txt >> deposition_Joe_Rugiani.txt 
+cat temp01.txt > deposition_Joe_Rugiani.txt
