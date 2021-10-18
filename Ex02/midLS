@@ -1,1 +1,2 @@
-ls -m -U -t -p
+#!/bin/bash
+ls -mtp
