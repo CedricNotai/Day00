@@ -63,6 +63,10 @@ Some commands used
 grep -A5 'L337' vehicles > temp1
 grep -A4 -B1 'Make: Honda' temp1 > temp2
 etc
+cat Plainsfield_Street
+cat Dunstable_Road
+
+cat interview-29741223
 
 
 >> The killer is Jeremy Bowers
