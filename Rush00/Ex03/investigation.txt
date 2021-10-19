@@ -58,4 +58,11 @@ After questioning neighbors, appears that the occupant may have left for a trip 
 
 Considered a suspect until proven otherwise, but would have to eliminate other suspects to confirm.Joe Germuska	M	65	Plainfield Street, line 275
 Should not be considered a suspect, has no SkyMiles membership and has never been a member of the Museum of Bash History.
-The killer is Jeremy Bowers.
+
+Some commands used 
+grep -A5 'L337' vehicles > temp1
+grep -A4 -B1 'Make: Honda' temp1 > temp2
+etc
+
+
+>> The killer is Jeremy Bowers
