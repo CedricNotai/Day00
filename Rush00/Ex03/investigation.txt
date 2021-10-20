@@ -59,10 +59,26 @@ After questioning neighbors, appears that the occupant may have left for a trip 
 Considered a suspect until proven otherwise, but would have to eliminate other suspects to confirm.Joe Germuska	M	65	Plainfield Street, line 275
 Should not be considered a suspect, has no SkyMiles membership and has never been a member of the Museum of Bash History.
 
+Process
+find clues (CLUE from crimescene)
+find people named Annabel
+find complete Annabel Church interview 
+cd interviews
+grep 'Church' *
+read the full interview
+get car details
+filter the vehicles list
+after filtering, 4 names: Erika Owens, Joe Gemuska, Jeremy Bowers, Jaqui Maher
+search male names in people: Jeremy Bowers and Joe Germuska
+search their respective streetst in street directory
+see their interview
+
 Some commands used 
+grep 'CLUE' crimescene
+grep 'Annabel' people
 grep -A5 'L337' vehicles > temp1
 grep -A4 -B1 'Make: Honda' temp1 > temp2
-etc
+etc -> filter the vehicles to get 4 names : Erika Owens, Joe Germuska, Jeremy Bowers, Jacqui Maler
 cat Plainsfield_Street
 cat Dunstable_Road
 
